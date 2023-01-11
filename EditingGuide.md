@@ -1,5 +1,7 @@
 # Guide to Editing - One-Among.Us
 
+Other languages: [简体中文](EditingGuide-zh_Hans.md)
+
 ## Principles of Writing
 
 We aim to be a small memorial rather than a wiki. Therefore, we encourage you to write to mourn those transgender friends or allies who have passed away, and to soothe those who are still alive. No matter what gender identity they were, we hope to show our readers, “they were the same as me. They are one among us.” Therefore, both overly exaggerated or overly calm descriptions need to be avoided.
