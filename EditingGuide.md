@@ -2,7 +2,18 @@
 
 ## Principles of Writing
 
-*Under construction*
+We aim to be a small memorial rather than a wiki. Therefore, we encourage you to write to mourn those transgender friends or allies who have passed away, and to soothe those who are still alive. No matter what gender identity they were, we hope to show our readers, “they were the same as me. They are one among us.” Therefore, both overly exaggerated or overly calm descriptions need to be avoided.
+
+You have more creative freedom than contributing to a wiki, but you should still follow some fundamental principles, such as:
+- Be as truthful as possible.
+- For large paragraphs of quotations, the source needs to be indicated.
+- Slangs in the community can be used, but if you like, please add a comment when they first appear.
+
+The article should be written in third person. Please use proper gender pronouns in accordance with the wishes of them. For non-binary, agender or gender-non-confirming people, if they did not show their pronouns, please use “they” in English and「ta」in Chinese for there is no proper, common Chinese characters at present. Or you can use your language skills to avoid pronouns.
+
+Use proper punctuations in articles. In Chinese articles, regardless of different Chinese variants, use「」(outer) and『』(inner) for quotation marks in replace of “” or ‘’ unless the words in the quotation marks are not Chinese. Use curly quotation marks instead of straight ones.
+
+To protect our readers, if someone departed from us through suicide, please hide the detail of their methods as you can. You must not write down the name or dose of the medicine or drugs if it was an overdose or poisoning.
 
 ## Contribute with GitHub
 
