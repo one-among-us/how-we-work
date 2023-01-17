@@ -15,7 +15,7 @@ One-Among.Us is a fully open source website. The source code and articles are st
 If you want to leave a comment, simply use the forms in the website. If you want to contribute to the articles, you can follow the guidelines below:
 
 - Our [Guide to Editing](EditingGuide.md).
-- [*Preventing suicide: A global imperative*](https://www.who.int/publications/i/item/9789241564779) by World Health Organization ([Chinese version](https://apps.who.int/iris/bitstream/handle/10665/208279/9789290617488_chi.pdf) available), if applicable.
+- [*Preventing suicide: a resource for media professionals*](https://apps.who.int/iris/handle/10665/258814) by World Health Organization (Chinese version also available), if applicable.
 
 ### Technical Contribution
 

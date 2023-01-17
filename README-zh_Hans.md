@@ -13,7 +13,7 @@ One Among Us 是一家旨在提高跨性别权利，呼吁对跨性别者的关�
 评论是机器人自动同步上去的，只需要在网站上填写。如果想要贡献信息和正文，可以参照下列文章：
 
 - 我们的 [编辑指南](EditingGuide-zh_Hans.md)。
-- 如果涉及和自杀相关的报道，还请参照世界卫生组织的 [预防自杀指南](https://www.who.int/publications/i/item/9789241564779)（有 [中文版](https://apps.who.int/iris/bitstream/handle/10665/208279/9789290617488_chi.pdf)）。
+- 如果涉及和自杀相关的报道，还请参照世界卫生组织的 [媒体工作者预防自杀指南](https://apps.who.int/iris/handle/10665/258814)（可以从链接下载中文版）。
 
 ### 贡献代码
 
