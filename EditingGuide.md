@@ -29,6 +29,7 @@ You have some creative freedom when contributing to [One-Among.Us](https://one-a
     please use “they” in English and「ta」in Chinese for there is no proper, common Chinese characters at present.
 
 5.  Use proper punctuations.
+
     In Chinese articles, regardless of language variant, use「」(outer) and『』(inner) for quotation marks in place of “” or ‘’ unless the words in the quotation marks are not Chinese.
     Use curly quotation marks instead of straight ones.
 
