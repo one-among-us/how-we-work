@@ -28,7 +28,7 @@ You have some creative freedom when contributing to [One-Among.Us](https://one-a
     Otherwise,
     please use “they” in English and「ta」in Chinese for there is no proper, common Chinese characters at present.
 
-5.  Use proper punctuations.
+5.  Use proper punctuation.
 
     In Chinese articles, regardless of language variant, use「」(outer) and『』(inner) for quotation marks in place of “” or ‘’ unless the words in the quotation marks are not Chinese.
     Use curly quotation marks instead of straight ones.
@@ -45,7 +45,7 @@ Before proceeding, please confirm that you have knowledge of:
 - basic grammar of the [YAML language](https://yaml.org/): indentation rules, usage of dash, spaces, and quotes, and escaping from special characters;
 - basic grammar of the [Markdown language](https://www.markdownguide.org/).
 
-Otherwise, you can simply email your writings or advices to [info@one-among.us](mailto:info@one-among.us).
+Otherwise, you can simply email your writings or suggestions to [info@one-among.us](mailto:info@one-among.us).
 Our staff will transform them properly.
 We do not believe our contributors must master any technical skills – you can work in a more “traditional” way if you like and your contributions would still be valued.
 
