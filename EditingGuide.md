@@ -17,6 +17,8 @@ Use proper punctuations in articles. In Chinese articles, regardless of differen
 
 To protect our readers, if someone departed from us through suicide, please hide the detail of their methods as you can. You must not write down the name or dose of the medicine or drugs if it was an overdose or poisoning.
 
+To respect the privacy of the departed, unless we get specific authorization before they leave, we should not connect their different internet identities (just pick the most public one) or publish messages they have posted on private or anonymous SNS platforms. 
+
 ## Contribute with GitHub
 
 Before proceeding, you may assure yourself that you have knowledge of:
