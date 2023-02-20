@@ -29,21 +29,33 @@ The message should be written in English. Starting with a mark symbol in square 
 
 **Marks**
 > [+] Add
+>
 > [-] Remove
+>
 > [U] Update
+>
 > [O] Optimize
+>
 > [F] Fix
+>
 > [S] Modify style
+>
 > [M] Move
+>
 > [T] Test
+>
 > [D] Tweak documentation
+>
 > [B] Backup
+>
 > [PR] Merge commit of pull request
 
 **Examples**
 
 > [+] Add entry for sauricat
+>
 > [U] Update photos for sauricat
+>
 > [F] Fix punctuation
 
 *Under Construction...*
