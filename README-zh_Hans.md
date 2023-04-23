@@ -31,7 +31,7 @@ One Among Us 是一家旨在提高跨性别权利，呼吁对跨性别者的关�
 >
 > [-] 移除
 >
-> [U] 更新 (Update)
+> [U] 更新 (Update) 修改 (Modify)
 >
 > [O] 优化 (Optimization)
 >
@@ -39,7 +39,7 @@ One Among Us 是一家旨在提高跨性别权利，呼吁对跨性别者的关�
 >
 > [S] 样式 (Style)
 >
-> [M] 移动 (Move)
+> [M] 移动 (Move) [^1]
 >
 > [T] 测试 (Test)
 >
@@ -48,6 +48,8 @@ One Among Us 是一家旨在提高跨性别权利，呼吁对跨性别者的关�
 > [B] 备份（Backup）
 >
 > [PR] Merge commit of pull request
+
+[^1]: 习惯上也可能用 [M] 表示修改（Modify），但此时更推荐用 [U]。
 
 **例子**
 
