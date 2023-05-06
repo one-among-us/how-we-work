@@ -42,6 +42,8 @@ The message should be written in English. Starting with a mark symbol in square 
 >
 > [M] Move (also [M] Modify by convention but [U] Modify is recommended)
 >
+> [R] Refactor
+>
 > [T] Test
 >
 > [D] Tweak documentation
