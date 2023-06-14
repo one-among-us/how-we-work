@@ -23,7 +23,7 @@
 - 跨性别者、跨**性**别者、非二元性别人士、非常规性别者（transgender, transsexual, non-binary, and gender non-conforming people, 总称 TGD）。只要确认其 TGD 身份，就可以收录。不应该因为 TGD 人士的品行问题而选择拒绝收录和纪念，但可以以后人的视角在介绍中作公正的评判。
 - 对 TGD 社群有感情的友跨人士（allies）。这里的标准比较宽松。
 
-我们维护了一份只有 One Among Us 在任志愿者能看到的「不愿被收录人士的名单」，一旦发现 Pull Requests 或者 Issues 中有名单内提到的人，我们会手动关闭。这份名单我们认为不应该公开查阅，但是如果有人有需要来确认，请发邮件到 [info@one-among.us](mailto:info@one-among.us) 联系我们。
+我们维护了一份只有 One Among Us 在任志愿者能看到的「不愿被收录人士的名单」，一旦发现 Pull Requests 或者 Issues 中有名单内提到的人，我们会手动关闭。这份名单我们认为不应该公开查阅，但是如果有确认名单或者希望自己不被收录的需求，请发邮件到 [info@one-among.us](mailto:info@one-among.us) 联系我们。
 
 ## 用 GitHub 来修改和提交
 
