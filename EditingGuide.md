@@ -15,6 +15,8 @@ The article should be written in third person. Please use proper gender pronouns
 
 Use proper punctuations in articles. In Chinese articles, regardless of different Chinese variants, use「」(outer) and『』(inner) for quotation marks in replace of “” or ‘’ unless the words in the quotation marks are not Chinese. Use curly quotation marks instead of straight ones.
 
+If referring to outside resources, use web archive services such as [Internet Archive](https://archive.org) and [archive.today](https://archive.ph) (see [data/#141](https://github.com/one-among-us/data/issues/141)). 
+
 To protect our readers, if someone departed from us through suicide, please hide the detail of their methods as you can. You must not write down the name or dose of the medicine or drugs if it was an overdose or poisoning.
 
 To respect the privacy of the departed, unless we get specific authorization before they leave, we should not connect their different internet identities (just pick the most public one) or publish messages they have posted on private or anonymous SNS platforms. 
