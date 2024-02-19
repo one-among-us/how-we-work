@@ -13,16 +13,35 @@
 
 在各种语文的条目中都应当使用通行规范标点。仅有一处特殊情况：如无特殊说明，无论是哪种中文版本，引号都请使用直角引号「」（外层）和『』（内层）代替 “” 和 ‘’，除非所引用内容并非中文。英文引号需要使用 “” 和 ‘’，而不是没有弯曲度的 " 或者 '。
 
-如果要引用外部来源，请使用网络档案馆链接服务，比如 [Internet Archive](https://archive.org) 和 [archive.today](https://archive.ph) 等 (参见 [data/#141](https://github.com/one-among-us/data/issues/141) 的讨论）。 
+如果要引用外部来源，请使用网络档案馆链接服务，比如 [Internet Archive](https://archive.org) 和 [archive.today](https://archive.ph) 等 (参见 [data/#141](https://github.com/one-among-us/data/issues/141) 的讨论）。
 
 为了保护我们的读者，如果逝者是自杀离去的，请尽量淡化具体的方式。如果是采取药物的方式，不可以写出具体的药品名称或剂量。
 
-为了尊重逝者的隐私，除非生前有特别授权，不应把逝者的多个网络身份联系起来（只需要用最公共的那一个来写作），不应该发布逝者曾在非公开或匿名社交平台的信息。
+### 逝者条目命名规范
+
+#### 网页路由与data仓库内的目录名
+
+`data` 仓库内 `people` 目录下的目录名直接被用于网页路由的生成，例如：
+
+[https://www.one-among.us/profile/noname](https://www.one-among.us/profile/noname) 页面对应 `github:one-among-us/data/people/noname` 目录
+
+贡献者在创建新条目时，建议参考如下原则对目录进行命名：
+
+- 请贡献者在不引起混淆的情况下尽可能使用确认为逝者**个人持有**的，最具有**公共性**的线上身份标识作为目录名称或命名参考。一般而言，我们认为这一标识应当按照如下顺序选取：
+  - 逝者最广为人知的身份标识，尽可能只包含字母/数字/下划线，尽可能不包含 slash `/` 空格 `␣` 及其他需要转义的字符
+  - twitter/X **username**
+  - telegram **username**
+  - fediverse **username**
+  - 其他类似性质论坛/IM/社交网络中用于标识用户的**唯一ID**，包括但不限于 discord/IRC/个人网站/wechat
+- 请尽可能以 twitter/X username [字符限制](https://help.twitter.com/en/managing-your-account/change-x-handle)作为目录命名参照：
+  - 目录名长度在4～15个字符之间
+  - 仅使用字母，数字与下划线`_`
+- 考虑到现实世界的不确定性，无法通过简单的命名规则完全规避重名的可能。贡献者需一定程度上自行保障目录名称和逝者之间的对应并避免歧义。出现冲突时，请优先考虑避让先前已录入的条目并发邮件到 [info@one-among.us](mailto:info@one-among.us) 加以确认。
 
 ## 收录的标准
 
 我们纪念两类逝者：
-- 跨性别者、跨**性**别者、非二元性别人士、非常规性别者（transgender, transsexual, non-binary, and gender non-conforming people, 总称 TGD）。只要确认其 TGD 身份，就可以收录。不应该因为 TGD 人士的品行问题而选择拒绝收录和纪念，但可以以后人的视角在介绍中作公正的评判。
+- 跨性别者、跨**性**别者、非二元性别人士、非常规性别者（transgender, transsexual, non-binary, and gender non-conforming people, 总称 TGD）。只要确认其 TGD 身份，就可以收录。不应该因为 TGD 人士的品行问题而选择拒绝收录和纪念，但可以以后人的视角在介绍中作公正的评判；
 - 对 TGD 社群有感情的友跨人士（allies）。这里的标准比较宽松。
 
 我们维护了一份只有 One Among Us 在任志愿者能看到的「不愿被收录人士的名单」，一旦发现 Pull Requests 或者 Issues 中有名单内提到的人，我们会手动关闭。这份名单我们认为不应该公开查阅，但是如果有确认名单或者希望自己不被收录的需求，请发邮件到 [info@one-among.us](mailto:info@one-among.us) 联系我们。
